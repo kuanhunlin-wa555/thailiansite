@@ -1,0 +1,25 @@
+# Thailian.com Frontend Rules
+
+## Tech Stack
+- Next.js (App Router)
+- React, TypeScript
+- Tailwind CSS
+- framer-motion (for micro-animations and heavy-equipment reveals)
+- lucide-react (for iconography)
+
+## Coding Guidelines
+- **Strictly provide ACTUAL CODE when fixing or explaining. No high-level abstractions.**
+- Maximize Server Components to optimize SEO and initial load times. Use `"use client"` only for interactive elements (animations, state, forms).
+- Use `shadcn/ui` conventions for robust, accessible UI components.
+- Components live in `@/components/{ui,sections,layouts}/`.
+- Always satisfy strict TypeScript requirements.
+- Add meaningful Metadata for every page route to boost SEO.
+
+## Design Aesthetic & "Wow" Factor
+- **Visual Excellence is mandatory.** Use sleek dark modes, glassmorphism, and structured gradients.
+- **Typography:** Avoid defaults. Rely on premium Google Fonts (e.g., Inter, Outfit) initialized in `layout.tsx`.
+- **Dynamic Feedback:** Buttons and interactive elements must have smooth hover/focus transitions.
+- **Animations:** Use `framer-motion` for staggering list views (e.g., forklift catalogs) and creating cinematic hero sections.
+
+## Assets
+- NEVER use blank box placeholders. Always use or generate realistic images (e.g., forklift 3D renders, warehouse backgrounds) if needed during development.
