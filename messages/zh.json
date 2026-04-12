@@ -1,0 +1,33 @@
+{
+  "Navigation": {
+    "home": "首页",
+    "products": "产品与服务",
+    "rentals": "租赁方案",
+    "afterSales": "售后服务",
+    "about": "关于我们",
+    "contact": "联系我们"
+  },
+  "Global": {
+    "ctaQuote": "获取报价",
+    "ctaRental": "咨询租赁专家",
+    "ctaDetails": "查看详情",
+    "valBranches": "全国18家直营网点",
+    "valBranchesDesc": "拥有无与伦比的服务覆盖率，确保极速响应。",
+    "valMechanics": "450+ 认证工程师",
+    "valMechanicsDesc": "专家级技术支持时刻待命，确保您的车队高效运转。",
+    "valInventory": "超1000万泰铢备件库存",
+    "valInventoryDesc": "告别停机等待。备有您所需配件，随时可供调用。",
+    "valAward": "全球十佳经销商",
+    "valAwardDesc": "荣获中国第一叉车品牌——合力叉车的权威认证。",
+    "valRank": "泰国第一叉车代理商",
+    "valRankDesc": "在物料搬运领域拥有近30年的卓越服务记录。"
+  },
+  "HomePage": {
+    "heroTitle": "泰国首屈一指的叉车经销商与租赁车队",
+    "heroSubtitle": "逾30年经验 | 全国18家直营网点 | 450+专业技术人员。为大型工业企业的物流提供强劲动力。",
+    "heroCtaRentals": "探索租赁方案",
+    "heroCtaEquipment": "浏览设备列表",
+    "introTitle": "携手 Thai-Lian，让您的运营迈向全新高度",
+    "introBody": "我们是泰国首屈一指的工业仓储设备经销商。真正的旗舰服务是无可匹敌的叉车租赁计划。我们不仅提供机械设备，更保证生产力的不间断。通过承担维护、故障修理的所有成本与风险，让您将全部精力集中在拓展业务上。"
+  }
+}

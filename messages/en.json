@@ -1,0 +1,52 @@
+{
+  "Navigation": {
+    "home": "Home",
+    "products": "Products & Services",
+    "rentals": "Rental Solutions",
+    "afterSales": "After-Sales Service",
+    "about": "About Us",
+    "contact": "Contact Us"
+  },
+  "Global": {
+    "ctaQuote": "Get a Quote",
+    "ctaRental": "Talk to a Rental Expert",
+    "ctaDetails": "View Details",
+    "valBranches": "18 Branches Nationwide",
+    "valBranchesDesc": "Unmatched coverage ensuring rapid response times wherever you are in Thailand.",
+    "valMechanics": "450+ Certified Mechanics",
+    "valMechanicsDesc": "Expert technical support standing by to keep your fleet operational.",
+    "valInventory": "10M+ THB Spare Parts Inventory",
+    "valInventoryDesc": "Zero downtime. We stock the parts you need, ready to deploy.",
+    "valAward": "Top 10 Global Distributor",
+    "valAwardDesc": "Proudly awarded by HELI, the #1 forklift manufacturer in China.",
+    "valRank": "Thailand's #1 Dealership",
+    "valRankDesc": "Almost three decades of proven excellence in material handling."
+  },
+  "HomePage": {
+    "heroTitle": "The #1 Forklift Distributor & Rental Fleet in Thailand.",
+    "heroSubtitle": "Over 30 years of expertise. 18 branches nationwide. 450+ specialized technicians. Powering the logistics of Thailand's biggest industries.",
+    "heroCtaRentals": "Explore Rental Solutions",
+    "heroCtaEquipment": "Browse Equipment",
+    "introTitle": "Elevate Your Operations with Thai-Lian",
+    "introBody": "We are Thailand's premier material handling partner. While we are proud to be top-tier distributors for global brands, our flagship offering is our unrivaled Forklift Rental Program. We don’t just supply machinery; we guarantee uninterrupted productivity. By assuming the total cost and risk of maintenance, breakdowns, and logistics, we allow you to focus entirely on scaling your business."
+  },
+  "RentalServices": {
+    "title": "Enterprise Forklift Rental Solutions",
+    "subtitle": "Zero Downtime. Zero Maintenance Risks. Maximum Flexibility.",
+    "intro": "Equipment ownership shouldn't be a liability. As our most popular and trusted service, our rental operations support Thailand's largest warehouses, factories, and ports.",
+    "programsTitle": "Our Rental Programs",
+    "longTermTitle": "Long-Term Fleet Leasing (1-5 Years)",
+    "longTermDesc": "The ultimate predictable OPEX strategy. We supply brand new (red plate) forklifts built to your exact specifications. Protect your cash flow and never worry about depreciation again.",
+    "monthlyTitle": "Monthly Contracts",
+    "monthlyDesc": "Perfect for seasonal spikes in inventory, project-based contracts, or scaling operations dynamically.",
+    "dailyTitle": "Daily & Emergency Rentals",
+    "dailyDesc": "Immediate relief for sudden breakdowns or special events. We dispatch trucks instantly from our 18 branches, with or without a certified operator.",
+    "advantageTitle": "The Thai-Lian Rental Advantage",
+    "freeMaintTitle": "100% Free Maintenance",
+    "freeMaintDesc": "We cover all preventative maintenance, labor, and spare parts. You only pay for fuel/electricity.",
+    "replacementsTitle": "Guaranteed Same-Day Replacements",
+    "replacementsDesc": "If a rental breaks down, we immediately dispatch a free loaner truck. Your logistics will not halt.",
+    "noHiddenTitle": "No Hidden Fees",
+    "noHiddenDesc": "Transport, servicing, and emergency rapid-response are fully bundled into your competitive rate."
+  }
+}
