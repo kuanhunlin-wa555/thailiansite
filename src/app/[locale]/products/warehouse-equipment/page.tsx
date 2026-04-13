@@ -1,12 +1,16 @@
-import { useTranslations } from 'next-intl';
+import { ProductCategoryHeader } from '@/components/ui/ProductCategoryHeader';
 
 export default function WarehouseEquipmentPage() {
   return (
-    <main className="flex min-h-[80vh] flex-col items-center justify-center p-8 bg-slate-50 dark:bg-slate-950">
-      <div className="container max-w-4xl text-center">
-        <h1 className="text-5xl font-black mb-6">Warehouse Equipment</h1>
-        <p className="text-xl text-slate-600 dark:text-slate-400">Optimize Space. Accelerate Logistics - Coming Soon.</p>
-      </div>
+    <main className="flex min-h-screen flex-col bg-slate-50 dark:bg-slate-950">
+      <ProductCategoryHeader 
+        namespace="WarehouseEquipment"
+        titleKey="title"
+        subtitleKey="subtitle"
+        introKey="intro"
+        imagePath="/images/hero_forklift.png"
+      />
+      {/* TODO: Add specific equipment grid here */}
     </main>
   );
 }

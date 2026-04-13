@@ -48,5 +48,30 @@
     "replacementsDesc": "If a rental breaks down, we immediately dispatch a free loaner truck. Your logistics will not halt.",
     "noHiddenTitle": "No Hidden Fees",
     "noHiddenDesc": "Transport, servicing, and emergency rapid-response are fully bundled into your competitive rate."
+  },
+  "EngineForklifts": {
+    "title": "Engine Forklifts (Diesel, Gas & LPG)",
+    "subtitle": "Unrelenting Power for the Harshest Environments",
+    "intro": "Designed for heavy-duty outdoor applications, construction sites, and lumber yards. Built to handle extreme loads without breaking a sweat."
+  },
+  "ElectricForklifts": {
+    "title": "Electric Li-ion Forklifts",
+    "subtitle": "Clean. Quiet. Uncompromising.",
+    "intro": "Say goodbye to emissions and massive fuel costs. Our premium lithium-ion forklifts offer zero-maintenance batteries, ultra-fast charging, and zero performance drop-off during long shifts. Ideal for enclosed warehouses, food & beverage, and pharmaceuticals."
+  },
+  "WarehouseEquipment": {
+    "title": "Warehouse Equipment",
+    "subtitle": "Maximize Your Warehouse Density",
+    "intro": "Narrow aisles? High racks? No problem. Our warehouse range (reach trucks, stackers, pallet jacks) is engineered for precision and agility, allowing operators to move inventory safely in the tightest of spaces."
+  },
+  "PartsAccessories": {
+    "title": "Forklift Parts & Accessories",
+    "subtitle": "Genuine Parts. Zero Compromise.",
+    "intro": "With an inventory of over 10 million THB, we ensure your downtime is kept to zero. From high-tread solid tires and durable forks to advanced telemetry devices, we supply pure OEM quality."
+  },
+  "PreOwned": {
+    "title": "Pre-Owned Inventory",
+    "subtitle": "Premium Reliability. Exceptional Value.",
+    "intro": "Every pre-owned forklift undergoes a rigorous 140-point inspection by certified engineers. Red-plate quality performance at a fraction of the capital expenditure."
   }
 }

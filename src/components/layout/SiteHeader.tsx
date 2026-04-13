@@ -22,8 +22,8 @@ export function SiteHeader() {
         {/* Desktop Navigation */}
         <nav className="hidden lg:flex gap-8 text-sm font-semibold text-slate-600 dark:text-slate-300">
           <Link href="/products" className="transition-colors hover:text-red-600">{t('products')}</Link>
-          <Link href="/services" className="transition-colors hover:text-red-600">{t('afterSale')}</Link>
-          <Link href="/training" className="transition-colors hover:text-red-600">{t('safety')}</Link>
+          <Link href="/rentals" className="transition-colors hover:text-red-600">{t('rentals')}</Link>
+          <Link href="/after-sales" className="transition-colors hover:text-red-600">{t('afterSales')}</Link>
           <Link href="/about" className="transition-colors hover:text-red-600">{t('about')}</Link>
           <Link href="/contact" className="transition-colors hover:text-red-600">{t('contact')}</Link>
         </nav>

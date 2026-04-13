@@ -43,21 +43,21 @@ export function MegaFooter() {
           <div>
             <h4 className="text-white font-bold text-lg mb-6 uppercase tracking-wider">Equipment</h4>
             <ul className="space-y-4 font-medium text-slate-400">
-              <li><Link href="/products" className="hover:text-red-500 transition-colors">Engine Forklifts</Link></li>
-              <li><Link href="/products" className="hover:text-red-500 transition-colors">Electric Li-ion Forklifts</Link></li>
-              <li><Link href="/products" className="hover:text-red-500 transition-colors">Reach Trucks</Link></li>
-              <li><Link href="/products" className="hover:text-red-500 transition-colors">Pallet Stackers</Link></li>
-              <li><Link href="/products" className="hover:text-red-500 transition-colors">Used Equipment Index</Link></li>
+              <li><Link href="/products/engine-forklifts" className="hover:text-red-500 transition-colors">Engine Forklifts</Link></li>
+              <li><Link href="/products/electric-forklifts" className="hover:text-red-500 transition-colors">Electric Li-ion Forklifts</Link></li>
+              <li><Link href="/products/warehouse-equipment" className="hover:text-red-500 transition-colors">Warehouse Equipment</Link></li>
+              <li><Link href="/products/parts-accessories" className="hover:text-red-500 transition-colors">Parts & Accessories</Link></li>
+              <li><Link href="/products/pre-owned" className="hover:text-red-500 transition-colors">Pre-Owned Inventory</Link></li>
             </ul>
           </div>
 
           <div>
-            <h4 className="text-white font-bold text-lg mb-6 uppercase tracking-wider">Company</h4>
+            <h4 className="text-white font-bold text-lg mb-6 uppercase tracking-wider">Services & Company</h4>
             <ul className="space-y-4 font-medium text-slate-400">
-              <li><Link href="/services" className="hover:text-red-500 transition-colors">After Sale Services</Link></li>
-              <li><Link href="/services?booking=open" className="hover:text-red-500 transition-colors">Spare Parts Request</Link></li>
-              <li><Link href="#" className="hover:text-red-500 transition-colors">About Us</Link></li>
-              <li><Link href="#" className="hover:text-red-500 transition-colors">Career Opportunities</Link></li>
+              <li><Link href="/rentals" className="hover:text-red-500 transition-colors">Rental Solutions</Link></li>
+              <li><Link href="/after-sales" className="hover:text-red-500 transition-colors">After Sale Services</Link></li>
+              <li><Link href="/about" className="hover:text-red-500 transition-colors">About Us</Link></li>
+              <li><Link href="/contact" className="hover:text-red-500 transition-colors">Contact & Support</Link></li>
             </ul>
           </div>
 
